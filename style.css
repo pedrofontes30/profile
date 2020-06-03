@@ -104,13 +104,13 @@ a:hover {
   color: #0D4259;
   font-weight: 500;
   padding: 3px;
-  border-radius:
+  border-radius: 2px;
 }
 
 .header {
   background-color: #0D4259;
   color: white;
-  padding: 0 30px;
+  padding: 2px 30px;
 }
 
 #white {
