@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  color: ;
+  color: #007991;
   font-size: 25px;
   font-weight: 400;
 }
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #FF6B6B;
+  color: #0D4259;
 }
 
 .container {
@@ -89,7 +89,7 @@ a:hover {
 }
 
 .btn:hover {
-  background-color: #FF6B6B;
+  background-color: #0D4259;
   color: white;
 }
 
