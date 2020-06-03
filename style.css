@@ -93,3 +93,7 @@ a:hover {
   background-color: #FF6B6B;
   color: white;
 }
+
+.banner {
+  background-image: url(https://cdn.statically.io/img/papers.co/wallpaper/papers.co-ng88-sea-water-beach-nature-bw-dark-wave-35-3840x2160-4k-wallpaper.jpg);
+}
